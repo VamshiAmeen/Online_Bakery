@@ -7,4 +7,5 @@ The project consist of list of bakery product displayed in various categories. I
 view the product he must register on site first, he can then login using same id password next 
 time. The user may browse through these items as per categories and also they can customize 
 the order.
+
 [documentation.pdf](https://github.com/user-attachments/files/15952204/documentation.pdf)
